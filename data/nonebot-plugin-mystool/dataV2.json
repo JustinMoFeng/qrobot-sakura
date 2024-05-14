@@ -1,0 +1,46 @@
+{
+    "version": "v2.3.0",
+    "user_bind": {},
+    "users": {
+        "3309113612": {
+            "enable_notice": true,
+            "uuid": "f6d0a949-9125-4757-9f4d-e6ab953e4ed9",
+            "qq_guild": {},
+            "exchange_plans": [],
+            "accounts": {
+                "20416809": {
+                    "phone_number": "13816711301",
+                    "cookies": {
+                        "stuid": "20416809",
+                        "ltuid": "20416809",
+                        "account_id": "20416809",
+                        "login_uid": "20416809",
+                        "stoken_v1": null,
+                        "stoken_v2": null,
+                        "cookie_token": null,
+                        "login_ticket": "fdcYeGmJ9hzsIt1X9Zh3rdnVAqekhuOJLImD4WsG",
+                        "ltoken": null,
+                        "mid": null,
+                        "stoken": null
+                    },
+                    "address": null,
+                    "device_id_ios": "F4F8C94E-CA7A-4203-86D9-9D93CA213043",
+                    "device_id_android": "C3B00317-B8CE-432B-98F4-DEFD6EBB315D",
+                    "device_fp": "38d7f9e20a470",
+                    "enable_mission": true,
+                    "enable_game_sign": true,
+                    "enable_resin": true,
+                    "enable_weibo": false,
+                    "platform": "ios",
+                    "mission_games": [
+                        "BBSMission"
+                    ],
+                    "user_stamina_threshold": 240,
+                    "user_resin_threshold": 160,
+                    "weibo_cookie": "",
+                    "weibo_params": ""
+                }
+            }
+        }
+    }
+}
